@@ -11,30 +11,24 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, vector<TreeNode*>& pre) {
-        if (!root) return;
-        pre.push_back(root);
-        solve(root->left, pre);
-        solve(root->right, pre);
-    }
-    
     void flatten(TreeNode* root) {
         if (!root) return;
-        
-        vector<TreeNode*> pre;
-        solve(root, pre);  
-        
-        TreeNode* curr = root;
-        for (int i = 1; i < pre.size(); i++) {  
-            curr->left = nullptr;     
-            curr->right = pre[i];       
-            curr = curr->right;       
-        }
-        
-        // last node
-        if (curr) {
-            curr->left = nullptr;
-            curr->right = nullptr;
+        TreeNode* node = root;
+        while (node) {
+            TreeNode* savedRight = node->right; 
+            if (node->left) {
+                TreeNode* tempR = node->left;
+
+                TreeNode* rightmost = tempR;
+                while (rightmost->right) {
+                    rightmost = rightmost->right;
+                }
+                rightmost->right = savedRight;
+                node->right = node->left;
+                node->left = nullptr;   
+            }
+            node = node->right;
         }
     }
 };
+
