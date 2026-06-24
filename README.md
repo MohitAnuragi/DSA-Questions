@@ -13,12 +13,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## String
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
