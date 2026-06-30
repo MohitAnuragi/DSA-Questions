@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0994-rotting-oranges](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MohitAnuragi/DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MohitAnuragi/DSA-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MohitAnuragi/DSA-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/MohitAnuragi/DSA-Questions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
